@@ -81,6 +81,15 @@
         "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-aospextended-rom-v5-1-t3737099"
     },
     {
+        "name": "Moto G5",
+        "brand": "Motorola",
+        "codename": "cedric",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=264984",
+        "maintainer_name": "Carlos Sanchez (Fedray)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6252172",
+        "xda_thread": "https://forum.xda-developers.com/g5/development/rom-aospextended-5-0-t3710925"
+    },
+    {
         "name": "Moto G5 Plus",
         "brand": "Motorola",
         "codename": "potter",
@@ -422,15 +431,6 @@
        "afh_folder": "https://androidfilehost.com/?w=files&flid=264894",
        "maintainer_name": "Brunowp8, IKGapirov",
        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7759939",
-       "xda_thread": ""
-    },	    
-    {
-       "name": "Moto E 2015",
-       "brand": "Motorola",
-       "codename": "surnia",
-       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=262384",
-       "maintainer_name": "Aayush Gupta (theimpulson)",
-       "maintainer_url": "https://forum.xda-developers.com/member.php?u=6042178",
        "xda_thread": ""
     }	    
 ]
